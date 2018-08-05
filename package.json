@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "docz": "^0.9.5"
+  },
+  "dependencies": {
+    "react-powerplug": "^1.0.0-rc.1"
+  }
+}
