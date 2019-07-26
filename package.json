@@ -1,8 +1,16 @@
 {
-  "devDependencies": {
-    "docz": "^0.9.5"
+  "name": "mycoolproject",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
   },
   "dependencies": {
     "react-powerplug": "^1.0.0-rc.1"
+  },
+  "devDependencies": {
+    "docz": "latest",
+    "docz-theme-default": "latest",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
